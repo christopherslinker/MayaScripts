@@ -1,0 +1,2 @@
+# MayaScripts
+Maya Scripts
